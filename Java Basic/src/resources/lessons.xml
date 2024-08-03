@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<lessons>
+    <lesson>
+        <title>Java and XML</title>
+        <course>Java basic</course>
+        <scope>
+            <topic>XML overview</topic>
+            <topic>XML validation. XSD, DTD schemas</topic>
+            <topic>XML Parsers</topic>
+            <topic>Marshalling, Unmarshalling</topic>
+        </scope>
+    </lesson>
+    <lesson>
+        <title>Threads in Java</title>
+        <course>Java basic</course>
+        <scope>
+            <topic>Threads overview</topic>
+            <topic>Thread states</topic>
+            <topic>Unblocking synchronization</topic>
+            <topic>Package java.util.concurrent</topic>
+            <topic>Runnable and Callable threads</topic>
+        </scope>
+    </lesson>
+</lessons>

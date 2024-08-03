@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<lessons>
+    <lesson>
+        <title>Marshalling in Java</title>
+        <course>Java Basic</course>
+        <scope>
+            <topic>Marshalling in Java: Topic 1</topic>
+            <topic>Marshalling in Java: Topic 2</topic>
+            <topic>Marshalling in Java: Topic 3</topic>
+        </scope>
+    </lesson>
+    <lesson>
+        <title>Unmarshalling in Java</title>
+        <course>Java Basic</course>
+        <scope>
+            <topic>Unmarshalling in Java: Topic 1</topic>
+            <topic>Unmarshalling in Java: Topic 2</topic>
+            <topic>Unmarshalling in Java: Topic 3</topic>
+        </scope>
+    </lesson>
+</lessons>
